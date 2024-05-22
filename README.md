@@ -1,2 +1,2 @@
-Fistly I created a method to read the file with FileReader and BufferedReader, and create a String "line" to receive each line value, using the StringBuilder method "append".
-Then I reshaped the email so the system could read it with no interruptions of different characters, and used the Scanner method "useDelimitor" to split the current string in tokens, so I could analyze each word and verify if there was any occurence of the spam words "won" and "money". 
+Firstly I created a method to read the file with FileReader and BufferedReader, and create a String "line" to receive each line value, using the StringBuilder method "append".
+Then I reshaped the email so the system could read it with no interruptions of different characters, and used the Scanner method "useDelimiter" to split the current string in tokens, so I could analyze each word and verify if there was any occurrence of the spam words "won" and "money". 
