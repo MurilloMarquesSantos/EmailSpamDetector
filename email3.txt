@@ -1,0 +1,4 @@
+Hello user,
+
+We've noticed a transaction with a very high amount of your money. Please verify if it was you.
+
